@@ -13,7 +13,7 @@ public class M3U8HttpServer extends NanoHTTPD {
 
     private NanoHTTPD server;
     private static final int DEFAULT_PORT = 8686;
-    String filesDir = null;
+    public String filesDir = null;
 
     public M3U8HttpServer() {
         super(DEFAULT_PORT);
