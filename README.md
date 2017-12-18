@@ -12,7 +12,7 @@ allprojects {
 	}
 	
 	dependencies {
-	        compile 'com.github.Jay-Goo:M3U8HttpServer:v1.0.0'
+	        compile 'com.github.Jay-Goo:M3U8HttpServer:v1.0.2'
 	}
    
 ```
